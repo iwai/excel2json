@@ -3,7 +3,7 @@
 # Install
 
 ```
-curl -O https://github.com/iwai/excel2json/releases/download/v1.0.0/excel2json.phar
+curl -LO https://github.com/iwai/excel2json/releases/download/v1.0.0/excel2json.phar
 ```
 
 
